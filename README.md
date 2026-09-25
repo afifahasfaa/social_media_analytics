@@ -1,7 +1,7 @@
 ## 💻 Social Media Analytics
 
 ## ⚙️ Tools Used
-- Microsoft Excel
+Microsoft Excel
 
 ## 📝 Project Overview
 Social Media Analytics is a data analysis project that explores social media engagement, platform performance, posting patterns, and public emotions. The project analyzes social media data to identify patterns in audience engagement across different platforms, time periods, and emotional categories. The analysis was conducted using Microsoft Excel, including data cleaning, calculated fields, PivotTables, PivotCharts, and dashboard development. The results are presented through an interactive dashboard to provide insights into engagement performance, frequently expressed emotions, and potential content patterns that can support data-driven digital content strategies.
