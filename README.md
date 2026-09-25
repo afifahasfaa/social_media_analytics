@@ -27,6 +27,7 @@ Social Media Analytics is a data analysis project that explores social media eng
 
 ## 📎 Preview
 Dashboard
+[https://github.com/afifahasfaa/social_media_analytics/blob/main/Screenshot%202026-09-25%20092636.png]
 
 
 
