@@ -7,8 +7,8 @@ Microsoft Excel
 Social Media Analytics is a data analysis project that explores social media engagement, platform performance, posting patterns, and public emotions. The project analyzes social media data to identify patterns in audience engagement across different platforms, time periods, and emotional categories. The analysis was conducted using Microsoft Excel, including data cleaning, calculated fields, PivotTables, PivotCharts, and dashboard development. The results are presented through an interactive dashboard to provide insights into engagement performance, frequently expressed emotions, and potential content patterns that can support data-driven digital content strategies.
 
 ## 📊 Dataset Used
-- Raw data: (https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
-- Clean data: (https://github.com/afifahasfaa/social_media_analytics/blob/main/project1.xlsx)
+- Raw data: https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset
+- Clean data: https://github.com/afifahasfaa/social_media_analytics/blob/main/project1.xlsx
 
 ## 💡 What I learned
 - How to clean data
@@ -26,6 +26,7 @@ Social Media Analytics is a data analysis project that explores social media eng
 8. What patterns can be identified from engagement, platform, time, and public emotions? 
 
 ## 📎 Preview
-[…]
+Dashboard
+
 
 
